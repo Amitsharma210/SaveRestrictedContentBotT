@@ -1,6 +1,5 @@
 #Github.com/Vasusen-code
 
-from pyrofork import Client
 
 from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
