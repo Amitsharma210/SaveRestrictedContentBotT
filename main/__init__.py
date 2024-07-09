@@ -1,6 +1,6 @@
 #Github.com/Vasusen-code
 
-
+from pyrogram import Client
 
 from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
